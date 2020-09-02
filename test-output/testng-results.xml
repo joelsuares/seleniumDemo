@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56" started-at="2020-01-29T03:22:19Z" finished-at="2020-01-29T03:22:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56" started-at="2020-01-29T03:22:19Z" finished-at="2020-01-29T03:22:19Z">
+      <class name="com.test.invocationCount">
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.test.invocationCount@5f150435]" name="sum" duration-ms="15" started-at="2020-01-29T08:52:19Z" finished-at="2020-01-29T08:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.test.invocationCount@5f150435]" name="sum" duration-ms="2" started-at="2020-01-29T08:52:19Z" finished-at="2020-01-29T08:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.test.invocationCount@5f150435]" name="sum" duration-ms="3" started-at="2020-01-29T08:52:19Z" finished-at="2020-01-29T08:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.test.invocationCount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
